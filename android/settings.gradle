@@ -1,0 +1,3 @@
+rootProject.name = 'modern_auth'
+
+include ':app'
