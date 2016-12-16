@@ -1,0 +1,1 @@
+export { default as ModernHome } from './ModernHome';
